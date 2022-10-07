@@ -31,8 +31,8 @@ Every data provided like cabs, cost etc are dummy but configured to easily apply
 ## Screenshots
 
 ![App Screenshot](https://github.com/Oneanonly123/uber-clone/blob/main/Uber-Screenshot/Uber-Clone-Home.jpeg?raw=true)
-![App Screenshot](https://github.com/Oneanonly123/uber-clone/blob/main/Uber-Screenshot/Uber-Clone-Book.jpeg?raw=true)
-![App Screenshot](https://github.com/Oneanonly123/uber-clone/blob/main/Uber-Screenshot/Uber-Clone-Map.jpeg?raw=true)
+![App Screenshot]([(https://github.com/Oneanonly123/uber-clone/blob/main/Uber-Screenshot/Uber-Map.jpg?raw=true)]
+
 
 
 ## Authors
