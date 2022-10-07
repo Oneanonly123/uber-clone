@@ -30,7 +30,7 @@ Search and active this API keys:
 Every data provided like cabs, cost etc are dummy but configured to easily apply the Api's with minor changes to it. Please add your api key's to Constant files and Manifest file.
 ## Screenshots
 
-![App Screenshot](https://github.com/Oneanonly123/uber-clone/blob/main/Uber-Screenshot/Uber-Clone-Home.jpeg?raw=true)
+![App Screenshot](https://github.com/Oneanonly123/uber-clone/blob/main/Uber-Screenshot/Uber-Home.jpg?raw=true)
 ![App Screenshot](https://github.com/Oneanonly123/uber-clone/blob/main/Uber-Screenshot/Uber-Map.jpg?raw=true)
 
 
