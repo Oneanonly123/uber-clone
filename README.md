@@ -2,7 +2,7 @@
 # Uber-Clone
 
 Hi! This is the clone to the App based Taxi booking Services like Uber using React Native, TailWind CSS, Google Map API, Google Direction API, Google Distance Matrix and Provider as a state management in it. Its unstable and i wont be maintaining it. You can find some usefull methods inside it, 
-releated to maps in flutter. You can also learn about maintaining the Complex UI on single screen and animations 
+releated to maps. You can also learn about maintaining the Complex UI on single screen and animations 
   and there visibility using Provider.
 
 
